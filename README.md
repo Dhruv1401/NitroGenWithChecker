@@ -5,11 +5,11 @@
 [![Run on Repl.it](https://repl.it/badge/github/sherlock-project/sherlock)](https://replit.com/@DhruvJadav/Discord-Nitro-1#README.md)
 
 Steps -
-1 - Run the nitrogen.py
-2 - Check the console and type in your answers
-3 - Wait for the process to end
-4 - Rate Me
-5 - Enjoy
+1 - Run the nitrogen.py<br>
+2 - Check the console and type in your answers<br>
+3 - Wait for the process to end<br>
+4 - Rate Me<br>
+5 - Enjoy<br>
 
 
 ```
